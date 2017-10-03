@@ -1,0 +1,8 @@
+Rice  : 30.0
+Milk:34.0
+milk:   15.0
+eggs: 12
+butter: 4
+bread: 24
+potatoes: 10
+cheese: 16

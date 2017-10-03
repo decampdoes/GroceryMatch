@@ -1,0 +1,4 @@
+stew -> beef: 10, potatoes: 4, carrots: 3
+breakfast -> cereal: 1, milk: 1
+omelet -> eggs: 4, milk: 1
+juice -> oranges: 6

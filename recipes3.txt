@@ -1,0 +1,4 @@
+pudding -> Rice: 3, milk: 2, Chocolate: 4
+chocolate chip cookies  -> sugar: 1, flour: 1, butter: 0.5, Milk: 4, chips: 1
+grilled cheese  -> bread: 1, cheese: 4, butter: 1
+oatmeal -> oats: 1, water: 1, sugar: 0.125
